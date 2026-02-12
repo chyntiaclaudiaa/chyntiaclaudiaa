@@ -17,3 +17,11 @@ Saya sangat terbuka untuk berdiskusi mengenai kolaborasi proyek atau sekadar ber
 * **Email:** [chyntiaclaudia1809@gmail.com]
   
 ---
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/chyntiaclaudiaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chyntiaclaudiaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chyntiaclaudiaa&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
