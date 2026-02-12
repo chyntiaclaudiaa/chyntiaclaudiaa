@@ -1,16 +1,19 @@
-## Hi there 👋
+# Halo, Saya Chyntia Claudia! 👋
 
-<!--
-**chyntiaclaudiaa/chyntiaclaudiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil saya! Saya adalah seorang mahasiswa semester 6 yang berkuliah di **Universitas Sumatera Utara (USU)**. Saya senang mengeksplorasi teknologi baru dan sedang mempersiapkan diri untuk transisi dari dunia akademik ke dunia profesional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tentang Saya
+* 🎓 **Status Saat Ini:** Mahasiswa aktif semester 6 di Universitas Sumatera Utara.
+* 💡 **Ketertarikan:** Fokus pada pengembangan diri, teknologi, dan manajemen proyek.
+
+---
+
+## 📫 Mari Terhubung!
+Saya sangat terbuka untuk berdiskusi mengenai kolaborasi proyek atau sekadar berbagi pengalaman.
+
+* **LinkedIn:** [Chyntia Claudia](https://www.linkedin.com/in/chyntia-claudia-18207031a/)
+* **Email:** [chyntiaclaudia1809@gmail.com]
+  
+---
